@@ -10,7 +10,7 @@ This repo contains the how-to(s) about the system setup for the workshop "Applie
 
 ####  Windows PC
 
-- Intel/AMD laptop with virtualization enabled. If you dont know how to enable virtualization [click here](http://bfy.tw/Mzsq).
+- Intel/AMD laptop with virtualization enabled. If you dont know how to enable virtualization(if not enabled in your laptop!) [click here](http://bfy.tw/Mzsq).
 - Minimum RAM Requirement: 4 GB (you won't be able to do the hands on lab if RAM < 4GB.
 - 20 GB free disk space.
 - Windows 10 / Windows 8.1 / Windows 8 / Windows 7 preferable (XP may not work).
