@@ -10,15 +10,15 @@ This repo contains the how-to(s) about the system setup for the workshop "Applie
 
 ####  Windows PC
 
-..* Intel/AMD laptop with virtualization enabled. If you dont know how to enable virtualization [click here](http://bfy.tw/Mzsq).
-..* Minimum RAM Requirement: 4 GB (you won't be able to do the hands on lab if RAM < 4GB.
-..* Windows 10 / Windows 8.1 / Windows 8 / Windows 7 preferable (XP may not work)
+- Intel/AMD laptop with virtualization enabled. If you dont know how to enable virtualization [click here](http://bfy.tw/Mzsq).
+- Minimum RAM Requirement: 4 GB (you won't be able to do the hands on lab if RAM < 4GB.
+- Windows 10 / Windows 8.1 / Windows 8 / Windows 7 preferable (XP may not work)
 
 #### Macbooks
-..* Macbook Air with at least 4 GB RAM required.
+- Macbook Air with at least 4 GB RAM required.
 
 #### Linux PC
-..* Linux users **don't** need to proceed to the next step. Just fire up the terminal and install python, R and RStudio. Ubuntu Linux is preferred. Again if you don't know how to install these, [click here](http://bfy.tw/Mzt6)
+- Linux users **don't** need to proceed to the next step. Just fire up the terminal and install python, R and RStudio. Ubuntu Linux is preferred. Again if you don't know how to install these, [click here](http://bfy.tw/Mzt6)
 
 
 <hr />
