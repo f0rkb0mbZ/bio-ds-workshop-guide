@@ -25,7 +25,6 @@ This repo contains the how-to(s) about the system setup for the workshop "Applie
 
 <hr />
 
-
 ### Installation Guide (only for windows and mac users)
 
 1. Download Oracle VM VirtualBox and VirtualBox Extension pack from [here](https://www.virtualbox.org/).
