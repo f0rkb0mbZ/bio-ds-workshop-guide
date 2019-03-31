@@ -20,4 +20,4 @@ We begin with the entire genome of a few bacteria and try to:
 1) The `aim` is to understand the working principle of convolutional neural networks (and how you can make one). 
 2) Some examples of predicting pathological images.
 
-Click [here]() to return to previous page. 
+###### Click [here](https://github.com/forkbomb-666/bio-ds-workshop-guide) to go back.  
