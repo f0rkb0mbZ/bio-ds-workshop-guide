@@ -28,9 +28,12 @@ This repo contains the how-to(s) about the system setup for the workshop "Applie
 ### Installation Guide (only for windows and mac users)
 
 1. Download Oracle VM VirtualBox and VirtualBox Extension pack from [here](https://www.virtualbox.org/).
+
+
 2. Install VirtualBox and VirtualBox Extension Pack in your system. The process may vary in mac or windows.
 3.  Download this Virtual Machine (.ova file) from [here](https://drive.google.com/open?id=1ysXdhs78RAI0yDc1an2SF-c6NZ5ffqbm). This is an ubuntu VM preinstalled with python, R and RStudio.
-4. After download, import the VM from VirtualBox, after couple of minutes, when import is done, select the VM in left side panel, then click start to run the VM.
+4. After download, import the VM from VirtualBox.
+5. After couple of minutes, when import is done, select the VM in left side panel, then click start to run the VM.
 
 ###### P.S. for any query, drop a mail at snehangshub1.618@gmail.com
 
